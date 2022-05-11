@@ -25,7 +25,7 @@ The company wants to know:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Lasso based ML model built and Identified the predictor variable for house sale price.
+- Ridge and Lasso based ML model built and Identified the predictor variable for house sale price.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -35,12 +35,6 @@ The company wants to know:
 - Python Libs sklearn, seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
